@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testik the search bar in the Fonttik Home page.</description>
+   <name>Fonttik_HomeSearchBar</name>
+   <tag>Search bar</tag>
+   <comment></comment>
+   <testCaseGuid>f3903deb-19eb-478f-b61f-d0e4c4600469</testCaseGuid>
+</TestCaseEntity>

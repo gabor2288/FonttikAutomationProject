@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_LightMode</name>
+   <tag></tag>
+   <elementGuidId>ea4c3f5b-98bf-463d-a8aa-c687a399698e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Toggle theme&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>circle</value>
+      <webElementGuid>e29ed43c-9eba-49cc-89de-7d4a056e9e5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cx</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>1055adac-0c41-4b73-b253-6e7e05a2a94f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cy</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>8bf6e55c-79e0-4641-b7d5-08c11e5c031f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>r</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>4fbae9ba-11f6-4f96-b192-364a42cf3739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;euiPage euiPage--paddingMedium euiPage--grow&quot;]/div[@class=&quot;euiHeader euiHeader--default euiHeader--fixed&quot;]/div[@class=&quot;euiHeaderSection euiHeaderSection--dontGrow euiHeaderSection--left&quot;]/div[@class=&quot;euiHeaderSectionItem euiHeaderSectionItem--borderLeft&quot;]/button[@class=&quot;euiButtonEmpty euiButtonEmpty--text euiHeaderSectionItemButton&quot;]/span[@class=&quot;euiButtonContent euiButtonEmpty__content&quot;]/span[@class=&quot;euiButtonEmpty__text&quot;]/span[@class=&quot;euiHeaderSectionItemButton__content&quot;]/svg[@class=&quot;euiIcon euiIcon--medium euiIcon-isLoaded&quot;]/circle[1]</value>
+      <webElementGuid>581c1be0-03f6-4da6-a6f1-133ecb1ddd56</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

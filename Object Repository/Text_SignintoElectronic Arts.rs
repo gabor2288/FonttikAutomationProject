@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text_SignintoElectronic Arts</name>
+   <tag></tag>
+   <elementGuidId>650e4965-9a2e-4077-9ed6-00521950b41d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.p-enterprise_signin__card_title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page_contents']/div/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Sign in to Electronic Arts&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>49e0afd5-b622-44a5-9006-af79cc351e23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-enterprise_signin__card_title</value>
+      <webElementGuid>435bc55e-2a99-42b2-a109-1246e7efef88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign in to Electronic Arts</value>
+      <webElementGuid>0c433ce2-f19b-49ee-b54a-601102281db8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page_contents&quot;)/div[@class=&quot;p-autoclog__hook&quot;]/div[@class=&quot;p-enterprise_signin__page&quot;]/div[@class=&quot;p-enterprise_signin__main_content&quot;]/div[@class=&quot;p-enterprise_signin__card p-enterprise_signin__card--large margin_top_300&quot;]/h1[@class=&quot;p-enterprise_signin__card_title&quot;]</value>
+      <webElementGuid>d575ba53-70ff-42e0-beee-3ed4fe16eca6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page_contents']/div/div/div/div/h1</value>
+      <webElementGuid>85862b6b-b605-4ed6-a6fe-055b884b7c81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Electronic Arts'])[1]/following::h1[1]</value>
+      <webElementGuid>cb7b166a-812f-4100-8302-ddf100c7884f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EA'])[1]/following::h1[1]</value>
+      <webElementGuid>f8f66a96-e761-42c6-beaf-495551ebe332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in with EA Email'])[1]/preceding::h1[1]</value>
+      <webElementGuid>0ce88d3f-172b-4a45-b159-2ac091cb411e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='or'])[1]/preceding::h1[1]</value>
+      <webElementGuid>ce082a4f-bd99-4fd9-9863-46cff1529fab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign in to Electronic Arts']/parent::*</value>
+      <webElementGuid>2500cb2d-065e-4a9e-ba6c-41240867dc8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>45bf3c95-c043-4911-8122-79df637f58de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Sign in to Electronic Arts' or . = 'Sign in to Electronic Arts')]</value>
+      <webElementGuid>062627f6-58d6-447b-9bbf-300ae7f28c9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

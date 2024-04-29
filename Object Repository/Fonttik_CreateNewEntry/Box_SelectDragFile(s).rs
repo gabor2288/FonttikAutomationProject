@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Box_SelectDragFile(s)</name>
+   <tag></tag>
+   <elementGuidId>5290d4d5-ebc8-449e-ae6d-4a37f9c6cbea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-eCssSg.bTCbdb</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ibbbdfb31-0613-11ef-aa66-f77cc2878ce2-row']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Select or drag and drop the file(s) to analyze&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bbfb0623-d070-4937-93f9-ca2b19566eae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9752380c-d3eb-44fb-a327-23aea4dafd76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ab177796-a857-4762-9057-ae4fd9da62e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-eCssSg bTCbdb</value>
+      <webElementGuid>35a72682-64c1-4b60-a09e-b77a28ee216e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select or drag and drop the file(s) to analyze</value>
+      <webElementGuid>4014dd6e-66db-41ff-aa12-12825490b23c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ibbbdfb31-0613-11ef-aa66-f77cc2878ce2-row&quot;)/div[@class=&quot;euiFormRow__fieldWrapper&quot;]/div[1]/div[@class=&quot;sc-eCssSg bTCbdb&quot;]</value>
+      <webElementGuid>d1aef8f7-2b7e-4ced-b1a3-a124ece2e8d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ibbbdfb31-0613-11ef-aa66-f77cc2878ce2-row']/div/div/div</value>
+      <webElementGuid>0ed16db4-f79b-4b74-9d15-8997d8e70b84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tool only accepts 720p (HD), 1080p (Full HD) and 2160p (4K) resolutions.'])[1]/following::div[5]</value>
+      <webElementGuid>58d5e474-1541-4486-ae30-bd6614976b0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='By entering n files you will create n requests.'])[1]/following::div[7]</value>
+      <webElementGuid>0ac6c228-7fa1-4567-b31b-de54df0e6a9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advanced Settings'])[1]/preceding::div[2]</value>
+      <webElementGuid>a3a9208e-9f44-48cc-bceb-6be9ed143715</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/div/div/div/div</value>
+      <webElementGuid>1825f533-bd1c-4fcd-889d-c7ac7ae46626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select or drag and drop the file(s) to analyze' or . = 'Select or drag and drop the file(s) to analyze')]</value>
+      <webElementGuid>02c62d63-063c-4483-b277-9d2f97ecbd3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

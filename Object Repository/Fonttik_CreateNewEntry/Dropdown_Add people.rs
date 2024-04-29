@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dropdown_Add people</name>
+   <tag></tag>
+   <elementGuidId>82eb6177-bb3b-4a14-90ce-73b2c70b1022</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#add_people > span.euiContextMenu__itemLayout > span.euiContextMenuItem__text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='add_people']/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;Add people&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>81efe3fb-0284-4003-9f61-5414d81c401c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>euiContextMenuItem__text</value>
+      <webElementGuid>9115d532-81b1-4a71-91bf-dcfe1b0e2945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add people</value>
+      <webElementGuid>09eacaff-9a4b-4280-b1bb-05b29fa7d45c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add_people&quot;)/span[@class=&quot;euiContextMenu__itemLayout&quot;]/span[@class=&quot;euiContextMenuItem__text&quot;]</value>
+      <webElementGuid>5716fb21-f57f-4473-adb2-40b9e5cef3f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='add_people']/span/span</value>
+      <webElementGuid>228168c2-fd29-4f69-bebe-d6d71619c25d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No restrictions (Public)'])[2]/following::span[2]</value>
+      <webElementGuid>bb103003-af4c-45f2-b896-fadcb45df4e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Only Me (Private)'])[1]/following::span[4]</value>
+      <webElementGuid>b7e4d862-7e6f-4183-8f20-74dad2c00a0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add people']/parent::*</value>
+      <webElementGuid>e32d35d9-ff91-4003-8e15-c16c83ec2b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/span/span</value>
+      <webElementGuid>b76a2d91-e451-48a3-8b08-c303fc3a6473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add people' or . = 'Add people')]</value>
+      <webElementGuid>514c3896-464a-4baf-8ab9-d8d92391a827</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

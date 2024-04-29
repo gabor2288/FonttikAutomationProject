@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>In this test case we are testing the creation of a new entry.</description>
+   <name>Fonttik_CreateNewEntry</name>
+   <tag>Create Entry</tag>
+   <comment></comment>
+   <testCaseGuid>601f1699-8df4-4eca-bc8d-8d9efeb03cbf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e902b337-69e6-4075-acf8-e128c90458f7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\gpetras\\\\Downloads\\\\UFC5_1080.png'</defaultValue>
+      <description></description>
+      <id>e902b337-69e6-4075-acf8-e128c90458f7</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

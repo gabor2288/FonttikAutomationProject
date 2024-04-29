@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dropdown_Only Me (Private)</name>
+   <tag></tag>
+   <elementGuidId>cd013d5f-d440-4d69-a9b4-104952af1831</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.euiContextMenuItem__text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='private']/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;Only Me (Private)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>552820f1-4448-4a58-a654-895173f1d13e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>euiContextMenuItem__text</value>
+      <webElementGuid>b41918bc-73d1-4ecb-b173-86daf76e07e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Only Me (Private)</value>
+      <webElementGuid>dcc6b7c2-5c35-47c8-8768-432d042b9eb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;private&quot;)/span[@class=&quot;euiContextMenu__itemLayout&quot;]/span[@class=&quot;euiContextMenuItem__text&quot;]</value>
+      <webElementGuid>3ec4f46e-c9a2-4c9a-b30a-4da2ee57e2a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='private']/span/span</value>
+      <webElementGuid>a7c6b9a1-9036-428b-89fa-8b292b964449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::span[2]</value>
+      <webElementGuid>aa0dae46-17e8-4eb5-81bb-53b8b09d84e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No restrictions (Public)'])[2]/preceding::span[1]</value>
+      <webElementGuid>27d640e2-eb65-45a2-9dec-ce35b0e4bc6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add people'])[1]/preceding::span[3]</value>
+      <webElementGuid>f38cefec-2a9d-4f68-a264-030199b2ea46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Only Me (Private)']/parent::*</value>
+      <webElementGuid>9705a9a5-0f78-4895-b117-7dbd0fe8b44a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[3]/div/div/button/span/span</value>
+      <webElementGuid>3ea0f00d-e557-40ed-8545-42207c3c0db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Only Me (Private)' or . = 'Only Me (Private)')]</value>
+      <webElementGuid>7f4c4c39-a7d6-4dc3-92ac-b2455c1a575a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

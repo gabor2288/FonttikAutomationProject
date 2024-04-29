@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_SelectorcreateTitle</name>
+   <tag></tag>
+   <elementGuidId>a6c2effb-51c6-4b44-9b36-3def9278591d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.euiComboBox__inputWrap.euiComboBox__inputWrap--noWrap.euiComboBox__inputWrap-isClearable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ibbbd37e3-0613-11ef-aa66-f77cc2878ce2-row']/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Select or create a Title$/ >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e9485e29-69af-491a-9c43-adb4ce339ce9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>euiComboBox__inputWrap euiComboBox__inputWrap--noWrap euiComboBox__inputWrap-isClearable</value>
+      <webElementGuid>d6465b87-eed3-4c7e-b1e1-b2e79bb9635b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-subj</name>
+      <type>Main</type>
+      <value>comboBoxInput</value>
+      <webElementGuid>92a370e7-c116-4a8d-bb54-10efc222b1dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>8eddb5fe-499a-40f1-9bdd-49b55074f08c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select or create a Title</value>
+      <webElementGuid>b9f7561a-7899-4716-b8ab-228c9ab6a33d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ibbbd37e3-0613-11ef-aa66-f77cc2878ce2-row&quot;)/div[@class=&quot;euiFormRow__fieldWrapper&quot;]/div[@class=&quot;euiComboBox euiComboBox-isInvalid euiComboBox-isOpen&quot;]/div[@class=&quot;euiFormControlLayout&quot;]/div[@class=&quot;euiFormControlLayout__childrenWrapper&quot;]/div[@class=&quot;euiComboBox__inputWrap euiComboBox__inputWrap--noWrap euiComboBox__inputWrap-isClearable&quot;]</value>
+      <webElementGuid>94ad8529-1769-4ae7-b02c-4420ad9733f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ibbbd37e3-0613-11ef-aa66-f77cc2878ce2-row']/div/div/div/div/div</value>
+      <webElementGuid>4f9d7750-d814-49dd-bb8d-0ff7a54218cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please note that, only one Product Title can be selected per request.'])[1]/following::div[7]</value>
+      <webElementGuid>a8b00504-db27-424d-95c3-d957751da4c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required field'])[1]/preceding::div[4]</value>
+      <webElementGuid>0aeff79e-d19d-4f1d-8170-21173953dc9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Request'])[1]/preceding::div[5]</value>
+      <webElementGuid>8e06737d-2203-47fb-bd29-0d49350144ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>665d4e2b-9998-45d2-83b1-89261b6a1508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select or create a Title' or . = 'Select or create a Title')]</value>
+      <webElementGuid>e1ec9dbb-c350-4c9c-83e5-fb948b77c00d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dropdown_NoRestrictions(Public)</name>
+   <tag></tag>
+   <elementGuidId>063cd24e-b9de-41c7-9b64-ebb8908766c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#public > span.euiContextMenu__itemLayout > span.euiContextMenuItem__text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='public']/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;No restrictions (Public)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>20c6cc09-1f97-4c73-99e6-e1b285ed36c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>euiContextMenuItem__text</value>
+      <webElementGuid>2e7cef88-0b87-4c03-818c-f7a0361ee5ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No restrictions (Public)</value>
+      <webElementGuid>12b48884-9529-4f69-ae90-ba1429d62163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;public&quot;)/span[@class=&quot;euiContextMenu__itemLayout&quot;]/span[@class=&quot;euiContextMenuItem__text&quot;]</value>
+      <webElementGuid>6ff84e15-e274-44f2-ab40-07bfec925e88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='public']/span/span</value>
+      <webElementGuid>fb76f175-7957-44e9-9863-5a87f45451f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Only Me (Private)'])[1]/following::span[2]</value>
+      <webElementGuid>5729f6fe-8740-4a98-b3e6-ac5b41c66f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::span[4]</value>
+      <webElementGuid>9449bbb7-4e37-4314-b7f8-9f55ee9b746b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add people'])[1]/preceding::span[1]</value>
+      <webElementGuid>08cdb042-d4cb-4405-a07c-bf00e95e6748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span/span</value>
+      <webElementGuid>cf7569c8-ad8f-4e93-9e01-1a551c5baabd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'No restrictions (Public)' or . = 'No restrictions (Public)')]</value>
+      <webElementGuid>e2d8497a-3777-4bf7-9fa8-ad7b0eda95f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

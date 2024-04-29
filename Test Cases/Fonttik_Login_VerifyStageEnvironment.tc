@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case makes sure, that the user is in the Staging environment.</description>
+   <name>Fonttik_Login_VerifyStageEnvironment</name>
+   <tag>Environment</tag>
+   <comment></comment>
+   <testCaseGuid>0da0eec2-43be-40a8-b3de-cc6e63d06b7d</testCaseGuid>
+</TestCaseEntity>
